@@ -6,5 +6,7 @@ namespace ananika
 {
     class NewClass
     {
+        void loco()
+            {}
     }
 }
